@@ -26,7 +26,6 @@
   
 - Currently Software and Data Engineer at Weblogiko 🌎
 - VSCode and IntelliJ 🛠️
-- Would like to play something? <a href="https://steamcommunity.com/id/fodson" target="_blank"><img src="https://img.shields.io/badge/Add-T3ns0R-lightgrey?style=flat-square&logo=steam" target="_blank"></a>
 
   
 ##
